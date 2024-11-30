@@ -1,0 +1,82 @@
+2024-11-30 22:56:05,752 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 22:56:10,773 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 22:56:25,353 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 22:56:38,049 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 22:57:14,055 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 22:57:19,789 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 22:57:37,358 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 22:57:51,391 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 22:58:20,770 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 22:58:26,890 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 22:58:44,617 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 22:59:00,712 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 23:00:38,982 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 23:00:46,005 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 23:01:00,348 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 23:01:14,695 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 23:01:14,714 - AI_Recruiter - ERROR - Processing error: 'charmap' codec can't encode character '\u25cf' in position 2418: character maps to <undefined>
+Traceback (most recent call last):
+  File "D:\ai recru\swarm-writer-agents-main\ai-recruiter-agency\app.py", line 202, in main
+    f.write(str(result))
+  File "C:\Users\kommu\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u25cf' in position 2418: character maps to <undefined>
+2024-11-30 23:06:24,874 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 23:06:36,994 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 23:06:53,604 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 23:07:11,856 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 23:07:11,887 - AI_Recruiter - ERROR - Processing error: 'charmap' codec can't encode character '\u25cf' in position 2418: character maps to <undefined>
+Traceback (most recent call last):
+  File "D:\ai recru\swarm-writer-agents-main\ai-recruiter-agency\app.py", line 203, in main
+    f.write(str(result))
+  File "C:\Users\kommu\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u25cf' in position 2418: character maps to <undefined>
+2024-11-30 23:10:30,308 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 23:10:43,368 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 23:11:01,864 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 23:11:18,071 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 23:11:18,083 - AI_Recruiter - ERROR - Processing error: 'charmap' codec can't encode character '\u25cf' in position 2418: character maps to <undefined>
+Traceback (most recent call last):
+  File "D:\ai recru\swarm-writer-agents-main\ai-recruiter-agency\app.py", line 204, in main
+    f.write(str(result))
+  File "C:\Users\kommu\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u25cf' in position 2418: character maps to <undefined>
+2024-11-30 23:12:44,092 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 23:12:52,272 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 23:13:02,719 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 23:13:21,969 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 23:13:21,989 - AI_Recruiter - ERROR - Processing error: Invalid format specifier '.0% + padd' for object of type 'float'
+Traceback (most recent call last):
+  File "D:\ai recru\swarm-writer-agents-main\ai-recruiter-agency\app.py", line 151, in main
+    f"{result['analysis_results']['confidence_score']:.0% + padd}",
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: Invalid format specifier '.0% + padd' for object of type 'float'
+2024-11-30 23:15:02,577 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 23:15:10,141 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 23:15:30,616 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 23:15:48,022 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 23:15:48,042 - AI_Recruiter - ERROR - Processing error: 'charmap' codec can't encode character '\u25cf' in position 2418: character maps to <undefined>
+Traceback (most recent call last):
+  File "D:\ai recru\swarm-writer-agents-main\ai-recruiter-agency\app.py", line 204, in main
+    f.write(str(result))
+  File "C:\Users\kommu\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u25cf' in position 2418: character maps to <undefined>
+2024-11-30 23:16:52,491 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 23:16:59,970 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 23:17:15,497 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 23:17:36,909 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-30 23:17:36,922 - AI_Recruiter - ERROR - Processing error: 'charmap' codec can't encode character '\u25cf' in position 2097: character maps to <undefined>
+Traceback (most recent call last):
+  File "D:\ai recru\swarm-writer-agents-main\ai-recruiter-agency\app.py", line 204, in main
+    f.write(str(result))
+  File "C:\Users\kommu\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u25cf' in position 2097: character maps to <undefined>
